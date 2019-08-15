@@ -1,0 +1,35 @@
+﻿欢迎使用印趣云课堂（edu.so.ink）破解版
+
+印趣网络：www.so.ink 提供技术支持
+
+官方论坛：建设中...
+
+官方演示地址：http://gr.so.ink
+
+后台地址：http://域名/admin.html
+
+印趣云课堂APP：https://www.etuan.com/deal/8493
+
+APP演示：https://it.so.ink/index.php?c=school&m=School&a=app_down
+
+印趣IT学院：https://it.so.ink
+
+印趣读书：http://book.so.ink
+
+印趣漫画：http://manhua.so.ink
+
+印趣招聘：http://job.ink
+
+印趣网校免费入驻：https://edu.so.ink
+
+印趣外呼系统：http://yqcrm.so.ink
+
+
+##感谢您使用印趣网络提供的在线教育系统源码，为了保证您的正常使用，请准备以下资料并在网站后台相关配置项配置
+
+1，短信接口            申请地址：http://www.sms.cn/
+2，七牛账号，          申请地址：http://www.qiniu.com
+3，支付宝在线支付账号  申请地址：http://www.alipay.com
+4，银联在线支付账号    
+
+如果您是nginx服务器，并开启伪静态，请将/URLRewrite/nginx.conf拷贝到根目录
